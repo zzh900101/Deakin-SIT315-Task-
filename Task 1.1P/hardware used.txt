@@ -1,0 +1,6 @@
+Arduino UNO *1
+HC-SR505 sensor *1
+led *2 (different color)
+bread board *2 (only 1 also ok)
+wire
+220Ω Resistor *2
